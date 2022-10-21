@@ -1,16 +1,16 @@
 {
-"name": "in8bet",
-"theme": "in8bet",
-"version": "4.10.9",
-"description": "in8bet สมัครเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
-"keywords": [
-"in8bet",
-"in8bet เครดิตฟรี",
-"in8bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/in8bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "in8bet",
+  "theme": "in8bet",
+  "version": "4.11.0",
+  "description": "in8bet สมัครเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+  "keywords": [
+    "in8bet",
+    "in8bet เครดิตฟรี",
+    "in8bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/in8bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
